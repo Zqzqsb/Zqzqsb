@@ -2,23 +2,36 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天运行一次
-  workflow_dispatch:
+    - cron: "0 */6 * * *" # 每6小时运行一次
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      # 检出仓库代码
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      # 生成 Github Snake 动画
+      - name: Generate GitHub Snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Zqzqsb
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # 将生成的动画推送到 output 分支
+      - name: Push GitHub Snake animation to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+

@@ -21,7 +21,11 @@ I'm a postgraduate student at Fudan University with a passion for algorithms, Li
 
 ## 📈 GitHub Stats
 
-![GitHub Snake](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-contribution-grid-snake.svg)
+### GitHub Activity Snake
+
+![GitHub Snake](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg)
+![GitHub Snake Ocean](https://github.com/Zqzqsb/Zqzqsb/blob/output/ocean.gif)
 
 <div class="badges-githubstats">
   <p align="center">
@@ -29,9 +33,6 @@ I'm a postgraduate student at Fudan University with a passion for algorithms, Li
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zqzqsb&theme=tokyonight&hide_border=true" alt="Zqzqsb's Streak" height="165">
   </p>
 </div>
-
-![GitHub Snake](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 📝 Blog
 
