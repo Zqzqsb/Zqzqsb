@@ -1,7 +1,5 @@
 # Hi there, I'm Zqzqsb 👋
 
-![Profile views](https://gpvc.arturio.dev/Zqzqsb)
-
 I'm a postgraduate student at Fudan University with a passion for algorithms, Linux and deep learning. Welcome to my GitHub profile!
 
 ## About Me
@@ -23,22 +21,16 @@ I'm a postgraduate student at Fudan University with a passion for algorithms, Li
 
 ## 📈 GitHub Stats
 
-![Zqzqsb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zqzqsb&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zqzqsb&layout=compact&theme=radical)
-
 ![GitHub Snake](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-contribution-grid-snake.svg)
 
-## 🛠️ Projects
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zqzqsb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Zqzqsb's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zqzqsb&theme=tokyonight&hide_border=true" alt="Zqzqsb's Streak" height="165">
+  </p>
+</div>
 
-### [Project 1](https://github.com/Zqzqsb/project-1)
-Description of project 1.
-
-### [Project 2](https://github.com/Zqzqsb/project-2)
-Description of project 2.
-
-### [Project 3](https://github.com/Zqzqsb/project-3)
-Description of project 3.
+![GitHub Snake](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📝 Blog
