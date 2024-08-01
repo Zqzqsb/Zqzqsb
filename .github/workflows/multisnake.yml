@@ -17,8 +17,8 @@ jobs:
 
       # 生成 Github Snake 动画
       - name: Generate GitHub Snake animation
-        uses: Platane/snk@v3
-        with:
+        uses: pray0/multi-source-snake@main
+        env:
           GITHUB_USER: zqzqsb
           GITEE_USER: Zqzqsb
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
