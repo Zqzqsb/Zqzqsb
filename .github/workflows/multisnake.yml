@@ -1,0 +1,34 @@
+name: Generate MultiSnake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # 每6小时运行一次
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 检出仓库代码
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      # 生成 Github Snake 动画
+      - name: Generate GitHub Snake animation
+        uses: Platane/snk@v3
+        env:
+          GITHUB_USER: zqzqsb
+          GITEE_USER: Zqzqsb
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITEE_TOKEN: f35530eaa371caac21241b628c123444
+
+      # 将生成的动画推送到 output 分支
+      - name: Push GitHub Snake animation to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
