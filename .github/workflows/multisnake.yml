@@ -17,7 +17,7 @@ jobs:
 
       # 生成 Github Snake 动画
       - name: Generate MultiSource Snake animation
-        uses: pray0/multi-source-snake:v1
+        uses: pray0/multi-source-snake@v1
         env:
           GITHUB_USER: zqzqsb
           GITEE_USER: Zqzqsb
