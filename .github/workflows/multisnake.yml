@@ -19,8 +19,8 @@ jobs:
       - name: Generate MultiSource Snake animation
         uses: Zqzqsb/MultiSourceSnake@v0.3
         with:
-          GITHUB_USER: zqzqsb
-          GITEE_USER: Zqzqsb
+          GITHUB_USER: Zqzqsb
+          GITEE_USER: zqzqsb
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITEE_TOKEN: f35530eaa371caac21241b628c123444
 
