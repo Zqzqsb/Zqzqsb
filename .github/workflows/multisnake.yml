@@ -17,7 +17,7 @@ jobs:
 
       # 生成 Github Snake 动画
       - name: Generate MultiSource Snake animation
-        uses: Zqzqsb/MultiSourceSnake@v0.5
+        uses: Zqzqsb/MultiSourceSnake@v0.6
         with:
           GITHUB_USER: Zqzqsb
           GITEE_USER: zqzqsb
@@ -34,6 +34,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
-          build_dir: /action-release/output
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
