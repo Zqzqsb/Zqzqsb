@@ -1,6 +1,6 @@
-# Hi there, I'm Zqzqsb 👋
+# Hi there, I'm Pray. 👋
 
-I'm currently a postgraduate student at Fudan University major in computer sinence.
+I'm currently a postgraduate student at Fudan University major in computer science.
 
 ## About Me
 
@@ -21,22 +21,19 @@ I'm currently a postgraduate student at Fudan University major in computer sinen
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white)
 
-## 📈 GitHub Stats
+## 📈 Contribution Stats
 
-### GitHub Activity Snake
+### GitHub && Gitee Activity Snake
 
-![GitHub Snake](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg)
-<!-- ![GitHub Snake Dark](https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg)
-![GitHub Snake Ocean](https://github.com/Zqzqsb/Zqzqsb/blob/output/ocean.gif) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
+</picture>
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zqzqsb&theme=purple&show_icons=true&hide_border=true&count_private=true" alt="Zqzqsb's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zqzqsb&theme=purple&hide_border=true" alt="Zqzqsb's Streak" height="165">
-  </p>
-</div>
+Recommendation for my project to combine your contributions in both github and gitee to generate this gif.
 
-## 📝 Blog
+## 📝 Blog && Homepage
 
 Check out my blog and homepage for articles and tutorials:
 
