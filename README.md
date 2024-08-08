@@ -31,7 +31,7 @@ I'm currently a postgraduate student at Fudan University major in computer scien
   <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
 </picture>
 
-Recommendation for my project to combine your contributions in both github and gitee to generate this gif.
+Recommendation for [my project](https://github.com/Zqzqsb/MultiSourceSnake) to combine your contributions in both github and gitee to generate this gif.
 
 ## 📝 Blog && Homepage
 
