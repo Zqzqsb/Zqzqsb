@@ -17,12 +17,16 @@ jobs:
 
       # 生成 Github Snake 动画
       - name: Generate MultiSource Snake animation
-        uses: Zqzqsb/MultiSourceSnake@v0.7
+        uses: Zqzqsb/MultiSourceSnake@v0.8
         with:
           GITHUB_USER: Zqzqsb
           GITEE_USER: zqzqsb
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITEE_TOKEN: f35530eaa371caac21241b628c123444
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # 验证生成的文件是否存在
       - name: Verify output files
@@ -34,6 +38,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
-          build_dir: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
