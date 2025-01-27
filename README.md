@@ -1,25 +1,25 @@
 # Hi there, I'm Pray. 👋
 
-I'm currently a postgraduate student at Fudan University major in computer science.
+I'm currently a Computer Science postgraduate student at Fudan University, dedicated to crafting elegant solutions in both frontend and backend development. 
 
 ## About Me
 
-- 🌱 I’m good at frontend development and backend development.
-- 💬 I like solving algorithm problems.
-- 📫 How to reach me: [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
-- ⚡ Fun fact: I love BigCamelCase!
+- 🌱 I specialize in full-stack development, bringing ideas to life through code
+- 💬 I'm an enthusiastic problem solver, particularly in algorithmic challenges
+- 📫 Connect with me: [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
+- ⚡ Fun fact: I love BigCamelCase and writing clean, maintainable code!
 
 ## 🚀 Skills
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
 
 ## 📈 Contribution Stats
 
