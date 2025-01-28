@@ -33,9 +33,8 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 
 Recommendation for [my project](https://github.com/Zqzqsb/MultiSourceSnake) to combine your contributions in both github and gitee to generate this gif.
 
-## 📝 Blog && Homepage
+## 📝 Blog
 
-Check out my blog and homepage for articles and tutorials:
+Check out my blog for articles and tutorials:
 
-- [ZQ` Homepage](https://homepage.zqzqsb.cn)
 - [ZQ` Blog](https://blog.zqzqsb.cn)
