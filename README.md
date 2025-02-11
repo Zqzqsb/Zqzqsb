@@ -6,8 +6,6 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <tr>
 <td width="50%" style="border: none;">
 
-<h2 align="left">About Me</h2>
-
 - 🛠️ Full-stack Developer with Cloud Experience
 - 💻 C++ Developer & Vim Power User
 - 🔧 Custom PC Building Enthusiast
