@@ -4,9 +4,9 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 
 <table width="100%" style="border: none;">
 <tr>
-<td width="50%" style="border: none;">
+<td align="left" valign="top" width="50%" style="border: none;">
 
-<h3 align="left">About Me</h3>
+<h3 align="left" style="margin-top: 0;">About Me</h3>
 
 - 🛠️ Full-stack Developer with Cloud Experience
 - 💻 C++ Developer & Vim Power User
@@ -15,7 +15,8 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 - 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 
 </td>
-<td width="50%" style="border: none;">
+
+<td width="50%" valign="top" style="border: none;">
 
 <div align="center">
   <picture>
