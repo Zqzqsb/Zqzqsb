@@ -6,7 +6,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <tr>
 <td width="50%" style="border: none;">
 
-## About Me
+<h2 align="left">About Me</h2>
 
 - 🛠️ Full-stack Developer with Cloud Experience
 - 💻 C++ Developer & Vim Power User
@@ -34,7 +34,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 </tr>
 </table>
 
-## 🚀 Skills
+<h2 align="left">🚀 Skills</h2>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -46,7 +46,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Contribution Stats
+<h2 align="left">📈 Contribution Stats</h2>
 
 ### GitHub && Gitee Activity Snake
 
@@ -58,7 +58,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 
 Recommendation for [my project](https://github.com/Zqzqsb/MultiSourceSnake) to combine your contributions in both github and gitee to generate this gif.
 
-## 📝 Blog
+<h2 align="left">📝 Blog</h2>
 
 Check out my blog for articles and tutorials:
 
