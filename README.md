@@ -9,9 +9,11 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <h3 align="left" style="margin-top: 0;">About Me</h3>
 
 - 🛠️ Full-stack Developer with Cloud Experience
-- 💻 C++ Developer & Vim Power User
+- 💻 Go Developer & Vim Power User & Rust Learner
 - 🔧 Custom PC Building Enthusiast
-- 🦀 Go && Rust Learner
+- 🍎 Hackintosh User
+- 🎵 Sports & Music Enthusiast
+- ✨ Clean Code & Tidy Space Advocate
 - 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 
 </td>
