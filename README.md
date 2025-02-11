@@ -17,7 +17,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 </td>
 
 <td width="50%" valign="top" style="border: none;">
-
+<h3 align="left" style="margin-top: 0;">GitHub Stats</h3>
 <div align="center">
   <picture>
     <source
