@@ -2,9 +2,9 @@
 
 I'm currently a Computer Science postgraduate student at Fudan University, dedicated to crafting elegant solutions in both frontend and backend development. 
 
-<table>
+<table width="100%" style="border: none;">
 <tr>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 ## About Me
 
@@ -14,7 +14,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 - 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 
 </td>
-<td width="50%">
+<td width="50%" style="border: none;">
 
 <div align="center">
   <picture>
