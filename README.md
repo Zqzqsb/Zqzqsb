@@ -6,9 +6,12 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <tr>
 <td width="50%" style="border: none;">
 
+<h3 align="left">About Me</h3>
+
 - 🛠️ Full-stack Developer with Cloud Experience
 - 💻 C++ Developer & Vim Power User
 - 🔧 Custom PC Building Enthusiast
+- 🦀 Go && Rust Learner
 - 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 
 </td>
