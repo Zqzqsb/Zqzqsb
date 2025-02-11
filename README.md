@@ -9,6 +9,10 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 - 📫 Connect with me: [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 - ⚡ Fun fact: I love BigCamelCase and writing clean, maintainable code!
 
+<div align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false" alt="Pray's GitHub Stats">
+</div>
+
 ## 🚀 Skills
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
