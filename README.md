@@ -2,12 +2,19 @@
 
 I'm currently a Computer Science postgraduate student at Fudan University, dedicated to crafting elegant solutions in both frontend and backend development. 
 
+<table>
+<tr>
+<td width="50%">
+
 ## About Me
 
 - 🌱 I specialize in full-stack development, bringing ideas to life through code
 - 💬 I'm an enthusiastic problem solver, particularly in algorithmic challenges
 - 📫 Connect with me: [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 - ⚡ Fun fact: I love BigCamelCase and writing clean, maintainable code!
+
+</td>
+<td width="50%">
 
 <div align="center">
   <picture>
@@ -22,6 +29,10 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" alt="Pray's GitHub Stats" />
   </picture>
 </div>
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Skills
 
