@@ -8,10 +8,10 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 
 ## About Me
 
-- 🌱 I specialize in full-stack development, bringing ideas to life through code
-- 💬 I'm an enthusiastic problem solver, particularly in algorithmic challenges
-- 📫 Connect with me: [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
-- ⚡ Fun fact: I love BigCamelCase and writing clean, maintainable code!
+- 🛠️ Full-stack Developer
+- 💻 C++ & Vim Enthusiast
+- 🔧 PC Builder
+- 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 
 </td>
 <td width="50%">
