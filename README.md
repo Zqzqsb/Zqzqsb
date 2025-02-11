@@ -8,9 +8,9 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 
 ## About Me
 
-- 🛠️ Full-stack Developer
-- 💻 C++ & Vim Enthusiast
-- 🔧 PC Builder
+- 🛠️ Full-stack Developer with Cloud Experience
+- 💻 C++ Developer & Vim Power User
+- 🔧 Custom PC Building Enthusiast
 - 📫 [zqzqsb@gmail.com](mailto:zqzqsb@gmail.com)
 
 </td>
