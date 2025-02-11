@@ -10,7 +10,17 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 - ⚡ Fun fact: I love BigCamelCase and writing clean, maintainable code!
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false" alt="Pray's GitHub Stats">
+  <picture>
+    <source
+      srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" alt="Pray's GitHub Stats" />
+  </picture>
 </div>
 
 ## 🚀 Skills
