@@ -23,13 +23,20 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <div align="center">
   <style>
     .skeleton {
-      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+      background: linear-gradient(90deg, var(--skeleton-color-start, #f0f0f0) 25%, var(--skeleton-color-middle, #e0e0e0) 50%, var(--skeleton-color-end, #f0f0f0) 75%);
       background-size: 200% 100%;
       animation: loading 1.5s infinite;
       width: 495px;
       height: 195px;
       border-radius: 6px;
       margin: 0 auto;
+    }
+    @media (prefers-color-scheme: dark) {
+      .skeleton {
+        --skeleton-color-start: #2a2a2a;
+        --skeleton-color-middle: #3a3a3a;
+        --skeleton-color-end: #2a2a2a;
+      }
     }
     @keyframes loading {
       0% { background-position: 200% 0; }
