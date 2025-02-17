@@ -6,7 +6,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <tr>
 <td align="left" valign="top" width="50%" style="border: none;">
 
-<h3 align="left" style="margin-top: 0;">About Me</h3>
+<h3 align="left" style="margin-top: 0;">关于我</h3>
 
 - 🛠️ Full-stack Developer with Cloud Experience
 - 💻 Go Developer & Vim Power User & Rust Learner
@@ -21,24 +21,60 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <td width="50%" valign="top" style="border: none;">
 <h3 align="left" style="margin-top: 0;">GitHub Stats</h3>
 <div align="center">
-  <picture>
-    <source
-      srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" alt="Pray's GitHub Stats" />
-  </picture>
+  <style>
+    .skeleton {
+      background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+      background-size: 200% 100%;
+      animation: loading 1.5s infinite;
+      width: 495px;
+      height: 195px;
+      border-radius: 6px;
+      margin: 0 auto;
+    }
+    @keyframes loading {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+    .stats-container {
+      position: relative;
+      min-height: 195px;
+    }
+    .stats-container img {
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    .stats-container img.loaded {
+      opacity: 1;
+    }
+  </style>
+  <div class="stats-container">
+    <div class="skeleton"></div>
+    <picture>
+      <source
+        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img 
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" 
+        alt="Pray's GitHub Stats" 
+        onload="this.classList.add('loaded')"
+      />
+    </picture>
+  </div>
 </div>
-
 </td>
 </tr>
 </table>
 
-<h2 align="left">🚀 Skills</h2>
+<h2 align="left">🚀 技能</h2>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -50,9 +86,9 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="left">📈 Contribution Stats</h2>
+<h2 align="left">📈 贡献统计</h2>
 
-### GitHub && Gitee Activity Snake
+### GitHub 与 Gitee 贡献统计
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake-dark.svg" />
@@ -60,10 +96,10 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
   <img alt="github-snake" src="https://github.com/Zqzqsb/Zqzqsb/blob/output/github-snake.svg" />
 </picture>
 
-Recommendation for [my project](https://github.com/Zqzqsb/MultiSourceSnake) to combine your contributions in both github and gitee to generate this gif.
+欢迎使用[我的项目](https://github.com/Zqzqsb/MultiSourceSnake)来生成展示你在 GitHub 和 Gitee 上组合贡献的动态图。
 
-<h2 align="left">📝 Blog</h2>
+<h2 align="left">📝 博客</h2>
 
-Check out my blog for articles and tutorials:
+查看我的博客，获取文章和教程：
 
 - [ZQ` Blog](https://blog.zqzqsb.cn)
