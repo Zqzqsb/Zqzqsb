@@ -6,7 +6,7 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 <tr>
 <td align="left" valign="top" width="50%" style="border: none;">
 
-<h3 align="left" style="margin-top: 0;">关于我</h3>
+<h3>关于我</h3>
 
 - 🛠️ Full-stack Developer with Cloud Experience
 - 💻 Go Developer & Vim Power User & Rust Learner
@@ -19,47 +19,9 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
 </td>
 
 <td width="50%" valign="top" style="border: none;">
-<h3 align="left" style="margin-top: 0;">GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 <div align="center">
-  <style>
-    .skeleton {
-      background: linear-gradient(90deg, var(--skeleton-color-start, #f0f0f0) 25%, var(--skeleton-color-middle, #e0e0e0) 50%, var(--skeleton-color-end, #f0f0f0) 75%);
-      background-size: 200% 100%;
-      animation: loading 1.5s infinite;
-      width: 495px;
-      height: 195px;
-      border-radius: 6px;
-      margin: 0 auto;
-    }
-    @media (prefers-color-scheme: dark) {
-      .skeleton {
-        --skeleton-color-start: #2a2a2a;
-        --skeleton-color-middle: #3a3a3a;
-        --skeleton-color-end: #2a2a2a;
-      }
-    }
-    @keyframes loading {
-      0% { background-position: 200% 0; }
-      100% { background-position: -200% 0; }
-    }
-    .stats-container {
-      position: relative;
-      min-height: 195px;
-    }
-    .stats-container img {
-      position: absolute;
-      top: 0;
-      left: 50%;
-      transform: translateX(-50%);
-      opacity: 0;
-      transition: opacity 0.3s ease;
-    }
-    .stats-container img.loaded {
-      opacity: 1;
-    }
-  </style>
-  <div class="stats-container">
-    <div class="skeleton"></div>
+  <div class="stats-container" align="center">
     <picture>
       <source
         srcset="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=github-dark&preferLogin=false"
@@ -72,7 +34,9 @@ I'm currently a Computer Science postgraduate student at Fudan University, dedic
       <img 
         src="https://awesome-github-stats.azurewebsites.net/user-stats/zqzqsb?cardType=github&theme=default&preferLogin=false" 
         alt="Pray's GitHub Stats" 
-        onload="this.classList.add('loaded')"
+        width="495"
+        height="195"
+        loading="lazy"
       />
     </picture>
   </div>
